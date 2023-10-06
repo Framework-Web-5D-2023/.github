@@ -1,8 +1,8 @@
 ## Hello Jr Developers, Welcome to "Praktikum Framework Web 5D" 🙌
 
-## 📝 Materi
-
 ---
+
+## 📝 Materi
 
 - [Pertemuan 1](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-1)
 - [Pertemuan 2](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-2)
@@ -15,9 +15,9 @@
 - [Pertemuan 9](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-9)
 - [Pertemuan 10](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-10)
 
-## 👨‍💻 Tugas 1
-
 ---
+
+## 👨‍💻 Tugas 1
 
 - [RADITYA AJI SASMOYO](https://github.com/Framework-Web-5D-2023/5D-Tugas1-RadityaAjiSasmoyo)
 - [SOPHIA MARATU SOLIHAT](https://github.com/Framework-Web-5D-2023/5D-Tugas1-SophiaMaratuSolihat)
