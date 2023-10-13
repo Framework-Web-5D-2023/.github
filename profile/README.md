@@ -4,16 +4,16 @@
 
 ## 📝 Materi
 
-- [Pertemuan 1](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-1)
-- [Pertemuan 2](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-2)
-- [Pertemuan 3](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-3)
-- [Pertemuan 4](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-4)
-- [Pertemuan 5](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-5)
-- [Pertemuan 6](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-6)
-- [Pertemuan 7](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-7)
-- [Pertemuan 8](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-8)
-- [Pertemuan 9](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-9)
-- [Pertemuan 10](https://github.com/Framework-Web-5D-2023/.github/tree/main/profile/pertemuan-10)
+- [Pertemuan 1](https://github.com/Framework-Web-5D-2023/Pertemuan-1)
+- [Pertemuan 2](https://github.com/Framework-Web-5D-2023/Pertemuan-2)
+- [Pertemuan 3](https://github.com/Framework-Web-5D-2023/Pertemuan-3)
+- [Pertemuan 4](https://github.com/Framework-Web-5D-2023/Pertemuan-4)
+- [Pertemuan 5](https://github.com/Framework-Web-5D-2023/Pertemuan-5)
+- [Pertemuan 6](https://github.com/Framework-Web-5D-2023/Pertemuan-6)
+- [Pertemuan 7](https://github.com/Framework-Web-5D-2023/Pertemuan-7)
+- [Pertemuan 8](https://github.com/Framework-Web-5D-2023/Pertemuan-8)
+- [Pertemuan 9](https://github.com/Framework-Web-5D-2023/Pertemuan-9)
+- [Pertemuan 10](https://github.com/Framework-Web-5D-2023/Pertemuan-10)
 
 ---
 
