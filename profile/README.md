@@ -19,11 +19,33 @@
 
 ## 👨‍💻 Tugas 1
 
-- [RADITYA AJI SASMOYO](https://github.com/Framework-Web-5D-2023/5D-Tugas1-RadityaAjiSasmoyo)
-- [SOPHIA MARATU SOLIHAT](https://github.com/Framework-Web-5D-2023/5D-Tugas1-SophiaMaratuSolihat)
-- [YURI SAPUTRI](https://github.com/Framework-Web-5D-2023/5D-Tugas1-YuriSaputri)
-- [RINA NOVELA ERAMURY](https://github.com/Framework-Web-5D-2023/5D-Tugas1-RinaNovelaEramury)
-- [NURMALA DEWI](https://github.com/Framework-Web-5D-2023/5D-Tugas1-NurmalaDewi)
-- [MALIK SYAFI'I](https://github.com/Framework-Web-5D-2023/5D-Tugas1-MalikSyafii)
-- [MOHAMMAD BAHARUDIN YUSUF](https://github.com/Framework-Web-5D-2023/5D-Tugas1-MohammadBarudinYusuf)
-- [DZIKRI MAULANA](https://github.com/Framework-Web-5D-2023/5D-Tugas1-DzikriMaulana)
+- [RADITYA AJI SASMOYO](https://github.com/Framework-Web-5D-2023/Tugas1-RadityaAjiSasmoyo)
+- [SOPHIA MARATU SOLIHAT](https://github.com/Framework-Web-5D-2023/Tugas1-SophiaMaratuSolihat)
+- [YURI SAPUTRI](https://github.com/Framework-Web-5D-2023/Tugas1-YuriSaputri)
+- [RINA NOVELA ERAMURY](https://github.com/Framework-Web-5D-2023/Tugas1-RinaNovelaEramury)
+- [NURMALA DEWI](https://github.com/Framework-Web-5D-2023/Tugas1-NurmalaDewi)
+- [MALIK SYAFI'I](https://github.com/Framework-Web-5D-2023/Tugas1-MalikSyafii)
+- [MOHAMMAD BAHARUDIN YUSUF](https://github.com/Framework-Web-5D-2023/Tugas1-MohammadBarudinYusuf)
+- [DZIKRI MAULANA](https://github.com/Framework-Web-5D-2023/Tugas1-DzikriMaulana)
+
+## 👨‍💻 Tugas 2
+
+- [RADITYA AJI SASMOYO](https://github.com/Framework-Web-5D-2023/Tugas2-RadityaAjiSasmoyo)
+- [SOPHIA MARATU SOLIHAT](https://github.com/Framework-Web-5D-2023/Tugas2-SophiaMaratuSolihat)
+- [YURI SAPUTRI](https://github.com/Framework-Web-5D-2023/Tugas2-YuriSaputri)
+- [RINA NOVELA ERAMURY](https://github.com/Framework-Web-5D-2023/Tugas2-RinaNovelaEramury)
+- [NURMALA DEWI](https://github.com/Framework-Web-5D-2023/Tugas2-NurmalaDewi)
+- [MALIK SYAFI'I](https://github.com/Framework-Web-5D-2023/Tugas2-MalikSyafii)
+- [MOHAMMAD BAHARUDIN YUSUF](https://github.com/Framework-Web-5D-2023/Tugas2-MohammadBarudinYusuf)
+- [DZIKRI MAULANA](https://github.com/Framework-Web-5D-2023/Tugas2-DzikriMaulana)
+
+## 👨‍💻 Tugas 3
+
+- [RADITYA AJI SASMOYO](https://github.com/Framework-Web-5D-2023/Tugas3-RadityaAjiSasmoyo)
+- [SOPHIA MARATU SOLIHAT](https://github.com/Framework-Web-5D-2023/Tugas3-SophiaMaratuSolihat)
+- [YURI SAPUTRI](https://github.com/Framework-Web-5D-2023/Tugas3-YuriSaputri)
+- [RINA NOVELA ERAMURY](https://github.com/Framework-Web-5D-2023/Tugas3-RinaNovelaEramury)
+- [NURMALA DEWI](https://github.com/Framework-Web-5D-2023/Tugas3-NurmalaDewi)
+- [MALIK SYAFI'I](https://github.com/Framework-Web-5D-2023/Tugas3-MalikSyafii)
+- [MOHAMMAD BAHARUDIN YUSUF](https://github.com/Framework-Web-5D-2023/Tugas3-MohammadBarudinYusuf)
+- [DZIKRI MAULANA](https://github.com/Framework-Web-5D-2023/Tugas3-DzikriMaulana)
