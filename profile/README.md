@@ -72,7 +72,7 @@
 - [MOHAMMAD BAHARUDIN YUSUF](https://github.com/Framework-Web-5D-2023/Tugas5-MohammadBarudinYusuf)
 - [DZIKRI MAULANA](https://github.com/Framework-Web-5D-2023/Tugas5-DzikriMaulana)
 
-## 👨‍💻 Tugas 5
+## 👨‍💻 Tugas 6
 
 - [RADITYA AJI SASMOYO](https://github.com/Framework-Web-5D-2023/Tugas6-RadityaAjiSasmoyo)
 - [SOPHIA MARATU SOLIHAT](https://github.com/Framework-Web-5D-2023/Tugas6-SophiaMaratuSolihat)
