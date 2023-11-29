@@ -17,6 +17,13 @@
 
 ---
 
+## 💙 PROJECT (TUGAS PAK BAGJA)
+
+- [KELOMPOK 1](https://github.com/Framework-Web-5D-2023/Kelompok-1)
+- [KELOMPOK 2](https://github.com/Framework-Web-5D-2023/Kelompok-2)
+
+---
+
 ## 👨‍💻 Tugas 1
 
 - [RADITYA AJI SASMOYO](https://github.com/Framework-Web-5D-2023/Tugas1-RadityaAjiSasmoyo)
@@ -93,3 +100,25 @@
 - [MALIK SYAFI'I](https://github.com/Framework-Web-5D-2023/Tugas6-MalikSyafii)
 - [MOHAMMAD BAHARUDIN YUSUF](https://github.com/Framework-Web-5D-2023/Tugas6-MohammadBarudinYusuf)
 - [DZIKRI MAULANA](https://github.com/Framework-Web-5D-2023/Tugas6-DzikriMaulana)
+
+## 👨‍💻 Tugas 7
+
+- [RADITYA AJI SASMOYO](https://github.com/Framework-Web-5D-2023/Tugas7-RadityaAjiSasmoyo)
+- [SOPHIA MARATU SOLIHAT](https://github.com/Framework-Web-5D-2023/Tugas7-SophiaMaratuSolihat)
+- [YURI SAPUTRI](https://github.com/Framework-Web-5D-2023/Tugas7-YuriSaputri)
+- [RINA NOVELA ERAMURY](https://github.com/Framework-Web-5D-2023/Tugas7-RinaNovelaEramury)
+- [NURMALA DEWI](https://github.com/Framework-Web-5D-2023/Tugas7-NurmalaDewi)
+- [MALIK SYAFI'I](https://github.com/Framework-Web-5D-2023/Tugas7-MalikSyafii)
+- [MOHAMMAD BAHARUDIN YUSUF](https://github.com/Framework-Web-5D-2023/Tugas7-MohammadBarudinYusuf)
+- [DZIKRI MAULANA](https://github.com/Framework-Web-5D-2023/Tugas7-DzikriMaulana)
+
+## 👨‍💻 Tugas 8
+
+- [RADITYA AJI SASMOYO](https://github.com/Framework-Web-5D-2023/Tugas8-RadityaAjiSasmoyo)
+- [SOPHIA MARATU SOLIHAT](https://github.com/Framework-Web-5D-2023/Tugas8-SophiaMaratuSolihat)
+- [YURI SAPUTRI](https://github.com/Framework-Web-5D-2023/Tugas8-YuriSaputri)
+- [RINA NOVELA ERAMURY](https://github.com/Framework-Web-5D-2023/Tugas8-RinaNovelaEramury)
+- [NURMALA DEWI](https://github.com/Framework-Web-5D-2023/Tugas8-NurmalaDewi)
+- [MALIK SYAFI'I](https://github.com/Framework-Web-5D-2023/Tugas8-MalikSyafii)
+- [MOHAMMAD BAHARUDIN YUSUF](https://github.com/Framework-Web-5D-2023/Tugas8-MohammadBarudinYusuf)
+- [DZIKRI MAULANA](https://github.com/Framework-Web-5D-2023/Tugas8-DzikriMaulana)
